@@ -9,5 +9,5 @@ We Assume that the number of nodes and operations doesn't exceed 10^4.
 
 Output format:
 For each input operation, the program will print out x value and y value (in its next line) of nodes which are located in the rectangle (Output nodes are sorted in the decreasing order of their y values).
-If there is no node located in that rectangle, the program will print out "None".
+If there is no node located in the rectangle, the program will print out "None".
 
