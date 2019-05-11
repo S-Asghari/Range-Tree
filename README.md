@@ -11,3 +11,6 @@ Output format:
 For each input operation, the program will print out x value and y value (in its next line) of nodes which are located in the rectangle (Output nodes are sorted in the decreasing order of their y values).
 If there is no node located in the rectangle, the program will print out "None".
 
+For more information about the algorithm, check these lectures:
+http://www.cs.umd.edu/~meesh/cmsc420/ContentBook/FormalNotes/MountNotes/lecture20-rangetrees.pdf
+http://www.cs.uu.nl/docs/vakken/ga/slides5b.pdf
