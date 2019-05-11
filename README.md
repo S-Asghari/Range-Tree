@@ -4,7 +4,7 @@ Input format:
 First line shows the number of input nodes.
 In the second line, x value of each node and in the third line, its corresponding y value are given.
 Fourth line shows the number of following operations.
-From the fifth line to the end, each line indicades 4 values which are coordinates of a rectangle.(in this order: x1, y1, x2, y2)
+From the fifth line to the end, each line indicades 4 values which are coordinates of a rectangle(in this order: x1, y1, x2, y2).
 We Assume that the number of nodes and operations doesn't exceed 10^4.
 
 Output format:
