@@ -12,5 +12,5 @@ For each input operation, the program will print out x value and y value (in its
 If there is no node located in the rectangle, the program will print out "None".
 
 For more information about the algorithm, check these links:
-http://www.cs.umd.edu/~meesh/cmsc420/ContentBook/FormalNotes/MountNotes/lecture20-rangetrees.pdf
+http://www.cs.umd.edu/~meesh/cmsc420/ContentBook/FormalNotes/MountNotes/lecture20-rangetrees.pdf and
 http://www.cs.uu.nl/docs/vakken/ga/slides5b.pdf
